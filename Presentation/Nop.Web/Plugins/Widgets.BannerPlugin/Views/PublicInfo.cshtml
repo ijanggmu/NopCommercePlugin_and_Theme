@@ -1,0 +1,15 @@
+﻿@model Nop.Plugin.Widgets.BannerPlugin.Models.PublicInfoModel
+@{ Layout = "";
+    Html.AddCssFileParts("~/Plugins/Widgets.BannerPlugin/Content/banner.css"); }
+<div class="bannerStyle">
+    <p>@Model.Message</p>
+
+
+    @{ var dataSlide1 = new ViewDataDictionary(ViewData)
+        {
+                {"pictureUrl", Model.PictureUrl}
+            };
+@await Html.PartialAsync("~/Plugins/Widgets.BannerPlugin/Views/_PublicInfo.SliderLine.cshtml", dataSlide1) }
+
+</div>
+<br/>

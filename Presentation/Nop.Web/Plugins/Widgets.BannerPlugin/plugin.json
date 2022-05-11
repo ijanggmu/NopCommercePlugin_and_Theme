@@ -1,0 +1,16 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Banner Plugin",
+  "SupportedVersions": [
+    "4.40"
+  ],
+  "Author": "NBIT",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.BannerPlugin.dll",
+  "Description": "This plugin integrates banners for the homepage",
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": [],
+  "DependsOnSystemNames": [],
+  "SystemName": "Widgets.BannerPlugin",
+  "Version": "1.38"
+}

@@ -1,0 +1,11 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Basic New",
+  "SystemName": "Widgets.BasicNew",
+  "Version": "1.41",
+  "SupportedVersions": [ "4.40" ],
+  "Author": "Basic team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widgets.BasicNew.dll",
+  "Description": "This plugin allows you to change the contents of Basic page "
+}

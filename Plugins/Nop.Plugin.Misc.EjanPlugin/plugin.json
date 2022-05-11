@@ -1,0 +1,11 @@
+{
+  "Group": "Misc",
+  "FriendlyName": "EjanPlugin",
+  "SystemName": "Misc.EjanPlugin",
+  "Version": "1.0",
+  "SupportedVersions": [ "4.40" ],
+  "Author": "Ejan team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Misc.EjanPlugin.dll",
+  "Description": "This simple plugin"
+}

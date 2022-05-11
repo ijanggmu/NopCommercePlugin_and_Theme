@@ -1,0 +1,16 @@
+﻿{
+  "Group": "Widgets",
+  "FriendlyName": "Hello World",
+  "SupportedVersions": [
+    "4.40"
+  ],
+  "Author": "nopCommerce team",
+  "DisplayOrder": 1,
+  "FileName": "Nop.Plugin.Widget.HelloWorld.dll",
+  "Description": "This plugin allow to configure fix tax rates or tax rates by countries, states and zip codes",
+  "LimitedToStores": [],
+  "LimitedToCustomerRoles": [],
+  "DependsOnSystemNames": [],
+  "SystemName": "Widget.HelloWorld",
+  "Version": "1.38"
+}
